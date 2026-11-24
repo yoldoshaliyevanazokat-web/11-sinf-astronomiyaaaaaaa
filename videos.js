@@ -1,0 +1,85 @@
+/* Video manbalari (ixtiyoriy). Bo'sh qoldirilsa, video bo'limida "tez orada qo'shiladi" xabari chiqadi.
+   Faqat HAQIQIY havola yoki fayl yozing. Namunalar:
+   window.VIDEOS = {
+     m1: 'YouTube video ID yoki to\'liq havola',
+     m2: { youtube: 'ID', title: 'Sarlavha' },
+     m3: { mp4: 'videos/m3.mp4' },                       // mahalliy fayl: videos/ papkasiga qo'ying
+     m4: [ { youtube: 'ID' }, { mp4: 'videos/m4-b.mp4' } ] // bir nechta video
+   }; */
+window.VIDEOS = window.VIDEOS || {};
+window.VIDEOS.m1 = 'jAAloQbb7Jc';
+window.VIDEOS.m2 = 'vqXUVpHRz9c';
+window.VIDEOS.m3 = 'kzTxRM5fMyo';
+window.VIDEOS.m4 = 'yoIrRybIipE';
+window.VIDEOS.m5 = 'WBxRLZbSSVs';
+window.VIDEOS.m6 = 'GbDxWR04WQ4';
+window.VIDEOS.m7 = 'CIaBc1wD23E';
+window.VIDEOS.m8 = '0OeQfgAvMmg';
+window.VIDEOS.m9 = 'Th0e4atoAjM';
+window.VIDEOS.m11 = 'WvzRv2rGdg8';
+window.VIDEOS.m12 = '8YQ9kPtH6mg';
+window.VIDEOS.m13 = '5FNRkzKEULI';
+window.VIDEOS.m14 = 'uRtI8KogkKk';
+window.VIDEOS.m15 = 'QjZZgtKgXUo';
+window.VIDEOS.m16 = 'rlRoGPNbUvQ';
+window.VIDEOS.m17 = 'mS8SszRAREY';
+window.VIDEOS.m18 = 'eLRb6UXDB34';
+window.VIDEOS.m19 = '4wzWUshtq5Q';
+window.VIDEOS.m20 = 'FPG0nIiMGw4';
+window.VIDEOS.m21 = 'FLNyyD7z9gQ';
+window.VIDEOS.m22 = '6kCu-IDfCR0';
+window.VIDEOS.m23 = 'UZx2Ff-01Js';
+window.VIDEOS.m24 = 'rtFES2thvTI';
+window.VIDEOS.m25 = 'l6SKy3fkfxc';
+window.VIDEOS.m26 = 'y4dIZN_HqDE';
+window.VIDEOS.m27 = '1w-Xo5JfSL0';
+window.VIDEOS.m28 = 's0Wh7NlyNl4';
+window.VIDEOS.m29 = 'X33Eb7l1Ng0';
+window.VIDEOS.m30 = 'TIfW-fZ4mHM';
+window.VIDEOS.m31 = 'M-HWDIySQ78';
+window.VIDEOS.m32 = '2W8DcO9aROk';
+window.VIDEOS.m33 = 'cXME6WdMbwY';
+window.VIDEOS.m34 = '-kW2ZCeFsrA';
+window.VIDEOS.m35 = 'nM2Ah9eyBk8';
+window.VIDEOS.m36 = 'BUoTDZwis9g';
+window.VIDEOS.m37 = '0FnRWK9N9qo';
+window.VIDEOS.m38 = 'RRU9Tt_ooNM';
+window.VIDEOS.m39 = 'iLfkE4Sy-OM';
+window.VIDEOS.m40 = 'I-eETCFSe3Q';
+window.VIDEOS.m41 = 'VWH-k_TRcQ8';
+window.VIDEOS.m42 = 'Rd1qnFde2Ns';
+window.VIDEOS.m43 = 'h3Tzxn-5cuE';
+window.VIDEOS.m44 = '3ro5w5xkc6c';
+window.VIDEOS.m45 = 'NT0i4y-CCR0';
+window.VIDEOS.m46 = 'B74C0fs4bJ4';
+window.VIDEOS.m47 = 'cpc8lWMmSGk';
+window.VIDEOS.m48 = 'yqjzt0gTCR4';
+window.VIDEOS.m49 = 'V_cyUIRpJYc';
+window.VIDEOS.m50 = 'fTRTQAVTJZw';
+window.VIDEOS.m51 = 'uZbfJ_WK0kA';
+window.VIDEOS.m52 = 'Dsy9jXBV3VQ';
+window.VIDEOS.m53 = 'HhJL1ObPvTQ';
+window.VIDEOS.m54 = 'obx0q_a8rDQ';
+window.VIDEOS.m55 = 'adFgNP_8mpo';
+window.VIDEOS.m56 = 'aoZ9_nqrfsQ';
+window.VIDEOS.m57 = 'zeXHowoinCE';
+window.VIDEOS.m58 = 'QTafnbKIBJU';
+window.VIDEOS.m59 = 'VDMIQqzcnrY';
+window.VIDEOS.m60 = 'HdPaWxlhnOA';
+window.VIDEOS.m61 = 'ABrloDM_BeU';
+window.VIDEOS.m62 = 'hxLrDAGQ3eg';
+window.VIDEOS.m63 = 'YTuaaW3aNLg';
+window.VIDEOS.m64 = 'wwq0-f6VXzA';
+window.VIDEOS.m65 = '5XfTk4uIU90';
+window.VIDEOS.m66 = 'OTw7Ke2utgc';
+window.VIDEOS.m67 = 'WJldh2z9Mpw';
+window.VIDEOS.m68 = '5eCAkDcRYmY';
+window.VIDEOS.m69 = '3LMl0A7Arfg';
+window.VIDEOS.m70 = '-M8SC6YMjSI';
+window.VIDEOS.m71 = '_LDvhlIb4AY';
+window.VIDEOS.m72 = '2rwM4XMCITM';
+window.VIDEOS.m73 = '8BPfjUuXjaQ';
+window.VIDEOS.m74 = 'XzVifh6X2QA';
+window.VIDEOS.m75 = 'TrFxZejNlxg';
+window.VIDEOS.m76 = 'RdareYvqH6w';
+window.VIDEOS.m10 = 'NejISDCIq7k';
